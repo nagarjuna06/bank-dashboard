@@ -11,6 +11,7 @@ const MobileMenu = () => {
           <img src="/icons/menu.svg" className="w-8 h-auto" />
         </label>
       </div>
+
       <div className="drawer-side">
         <label
           htmlFor="my-drawer"
