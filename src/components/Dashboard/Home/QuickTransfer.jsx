@@ -10,14 +10,17 @@ const QuickTransfer = () => {
             <div key={index} className="text-center max-md:text-sm">
               <img
                 src={user.image}
-                className="w-16 h-auto rounded-full mb-3 max-md:w-14"
+                className="w-18 h-auto rounded-full mb-3 max-md:w-14"
               />
               <h4>{user.name}</h4>
               <p className="text-[#718EBF] text-sm">{user.role}</p>
             </div>
           ))}
           <button className="p-2 rounded-full shadow-lg">
-            <img src="/icons/right-arrow.svg" className="h-auto w-8" />
+            <img
+              src="/icons/right-arrow.svg"
+              className="h-auto w-14 max-md:w-8"
+            />
           </button>
         </div>
         <div className="flex gap-4 items-center ">
