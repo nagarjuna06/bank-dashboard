@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="iconfinder_6_4753731_1" data-name="iconfinder_6_4753731 1" width="20" height="20" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Group_699" data-name="Group 699" style="mix-blend-mode: normal;isolation: isolate">
+    <path id="Ellipse_10" data-name="Ellipse 10" d="M0,25A25,25,0,1,1,25,50,25,25,0,0,1,0,25Z" fill="#dcfaf8" style="mix-blend-mode: normal;isolation: isolate"/>
+    <g id="iconfinder_6_4753731_1-2" data-name="iconfinder_6_4753731 1" transform="translate(15 15)" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+      <rect id="iconfinder_6_4753731_1-3" data-name="iconfinder_6_4753731 1" width="20" height="20" fill="none" style="mix-blend-mode: normal;isolation: isolate"/>
+      <g id="Layer_x0020_1" data-name="Layer x0020 1" transform="translate(1.212 1.212)" style="mix-blend-mode: normal;isolation: isolate">
+        <path id="Vector" d="M9.432,7.559a.586.586,0,0,0,1.172,0,1.813,1.813,0,0,0-1.23-1.71V5.517a.586.586,0,1,0-1.172,0v.332a1.811,1.811,0,0,0,.586,3.525.644.644,0,1,1-.643.644.586.586,0,1,0-1.172,0A1.811,1.811,0,0,0,8.2,11.727v.332a.586.586,0,1,0,1.172,0v-.332A1.81,1.81,0,0,0,8.788,8.2a.643.643,0,1,1,.644-.644ZM14.488,11.8a6.442,6.442,0,1,0-2.732,2.712.586.586,0,1,0-.541-1.039,5.193,5.193,0,0,1-2.427.591,5.27,5.27,0,1,1,4.665-2.812.586.586,0,1,0,1.035.549ZM4.023,1.4a.586.586,0,1,0,.636.984A7.616,7.616,0,1,1,2.366,4.693a.586.586,0,0,0-.987-.632A8.788,8.788,0,1,0,4.023,1.4Z" fill="#16dbcc" style="mix-blend-mode: normal;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
