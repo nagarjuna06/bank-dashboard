@@ -12,6 +12,7 @@ const Login = () => {
     e.preventDefault();
     const formData = Object.fromEntries(new FormData(e.target));
     if (validateLogin(formData)) {
+      sessionStorage.setItem("__token", crypto.randomUUID());
       router("/dashboard");
       return;
     }
