@@ -9,6 +9,7 @@ const Sidebar = () => {
         <img src="/logo.png" className="w-8 h-8" />
         <p className="text-xl">BankDash.</p>
       </div>
+
       {tabs.map((tab) => (
         <Link key={tab.path} className="flex" to={`/dashboard${tab.path}`}>
           {pathname === `/dashboard${tab.path}` ? (
