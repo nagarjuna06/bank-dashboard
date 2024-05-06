@@ -10,6 +10,7 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
+
 import { barChartDataset, barChartOptions } from "../../../lib/transactions";
 
 ChartJS.register(
