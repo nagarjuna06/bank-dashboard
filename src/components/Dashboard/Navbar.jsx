@@ -30,7 +30,7 @@ const Navbar = () => {
         </button>
         <button>
           <img
-            src="/profile.jpg"
+            src="/profile.png"
             className="w-14 h-auto rounded-full max-xl:w-10"
           />
         </button>
